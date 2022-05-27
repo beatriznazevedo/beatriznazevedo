@@ -4,7 +4,6 @@
 
 - 🔭 Quero trabalhar com front-end
 - 🌱 Estudando ReactJS
-- 😄 Pronouns: ela/dela
 
 <div>
  <a href="https://github.com/beatriznazevedo">
