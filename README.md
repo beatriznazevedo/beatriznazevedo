@@ -2,8 +2,8 @@
   
 - 🌱 I’m currently learning **javaScript**, **reactJS**
 - 👯‍♀️ I’m looking to collaborate on **front end developement**
-  
-  ## ⭐ GitHub Stats
+
+ ## ⭐ GitHub Stats
   
   <div align="center">
   <a href="https://github.com/beatriznazevedo">
@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriznazevedo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-  ## 💻 Technologies & Tools
+ ## 💻 Technologies & Tools
   
 <div align="center"><br>
    <img align="center" alt"Beatriz-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
