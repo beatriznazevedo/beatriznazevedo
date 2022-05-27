@@ -10,7 +10,7 @@
    <img align="center" alt"Beatriz-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
    <img align="center" alt"Beatriz-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
    <img align="center" alt"Beatriz-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="right" alt="Beatriz-gif" height="150" style="border-radius:50px;" src="">
+   <img align="right" alt="Beatriz-gif" height="150" src="https://user-images.githubusercontent.com/94022421/170771218-42aafcf0-7528-46a0-aa76-3e4a30ec9339.gif">
 </div>
  
  ##
@@ -22,4 +22,3 @@
   ![Snake animation](https://github.com/beatriznazevedo/beatriznazevedo/blob/output/github-contribution-grid-snake.svg)
  
  </div>
-
