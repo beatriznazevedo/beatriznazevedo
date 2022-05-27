@@ -1,4 +1,4 @@
-## Olá, mundo!
+## Olá, mundo! <img align="right" alt="beatriznazevedo" src="https://komarev.com/ghpvc/?username=beatriznazevedo&color=ff69b4"/>
 <div align="center">
   <a href="https://github.com/beatriznazevedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatriznazevedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
