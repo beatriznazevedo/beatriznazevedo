@@ -31,3 +31,5 @@
     <a href="https://www.linkedin.com/in/beatriznazevedo"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <img align="right" width="150" height="150" alt="Beatriz-gif" src="https://i.picasion.com/pic92/513a041b58cc2b53bac0c5a7ab64d070.gif" width="300" height="300"/>
   </div>
+
+ ![Snake animation](https://github.com/beatriznazevedo/beatriznazevedo/blob/output/github-contribution-grid-snake.svg)
