@@ -21,8 +21,9 @@
 <div>
   <a href="mailto:beatriznazevedo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriznazevedo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a>
-    <img align="right" alt="Beatriz-gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/94022421/170777770-2ea2d131-c44a-46c8-b768-49be214542b6.gif">
- 
+    <p align="center">
+    <img alt="Beatriz-gif" src="https://user-images.githubusercontent.com/94022421/170777770-2ea2d131-c44a-46c8-b768-49be214542b6.gif">
+    </p>
  
   ![Snake animation](https://github.com/beatriznazevedo/beatriznazevedo/blob/output/github-contribution-grid-snake.svg)
  
