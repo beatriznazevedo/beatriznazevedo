@@ -1,4 +1,4 @@
-# 🗺 Hello, world! <img align="right" alt="beatriznazevedo" src="https://komarev.com/ghpvc/?username=beatriznazevedo&color=ff69b4"/>
+## 🗺 Hello, world! <img align="right" alt="beatriznazevedo" src="https://komarev.com/ghpvc/?username=beatriznazevedo&color=ff69b4"/>
  
 <pre>
 function dev(name, age, work) {
@@ -28,7 +28,7 @@ function dev(name, age, work) {
    <img align="center" alt"Beatriz-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
   
- ## 📌 Contact me!
+ ## 📌 Contact me
  
 <div align="center">
   <a href="https://www.linkedin.com/in/beatriznazevedo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a>
